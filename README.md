@@ -1,4 +1,4 @@
-# Bot-dicord
+# Bot-discord
 Robô de estudos criado para o discord
 - As tecnologias usadas foram **javascript** e a **API do discord**
 ## Infelizmente no momento não consigo subir o bot para o uso, mas caso tenha interesse em testar siga esses passos:
