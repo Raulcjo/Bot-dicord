@@ -19,3 +19,5 @@ Robô de estudos criado para o discord
   > O GUILD_ID só é possível conseguir estar no modo desenvolvedor e pegar o ID do servidor, caso não saiba acesse [Como descobrir meus IDs](https://support.discord.com/hc/pt-br/articles/206346498-Onde-posso-encontrar-minhas-IDs-de-Usu%C3%A1rio-Servidor-Mensagem-)
 10. Para ativar o bot escreva no prompt de comando **node index.js**
   > Para verificar se todos os comandos estão funcionando escreva no prompt de comando **node deploy-commands.js**, antes do comando acima
+
+:star: Qualque dúvida extra sobre a criação de bots acesse [Guia de como criar um bot no discord](https://discordjs.guide/creating-your-bot/#using-config-json)
